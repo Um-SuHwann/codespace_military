@@ -1,2 +1,3 @@
 # codespace_military
-codespaces 사용해서 공부하기
+2026/08/09
+- codespace 사용해보기
